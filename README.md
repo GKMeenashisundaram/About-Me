@@ -20,6 +20,7 @@ My research focuses on **AI-enabled advanced manufacturing**, integrating:
 - Additive manufacturing of metallic and ceramic materials
 - Advanced materials processing for semiconductor, aerospace, and biomedical applications
 - Digital manufacturing, process monitoring, and data-driven manufacturing systems
+- Biomaterials design, **cytotoxicity**, **biocompatibility**, and toxicity assessment for medical devices and implantable materials
 
 My work bridges **materials science, manufacturing engineering, AI, and biomedical technologies** to develop scalable solutions that accelerate the transition from fundamental research to real-world applications.
 
